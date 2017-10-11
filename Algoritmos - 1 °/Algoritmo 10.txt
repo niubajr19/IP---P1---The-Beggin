@@ -1,0 +1,6 @@
+1. Receba um número que defina o tempo de duração de um determinado evento, definida em "Segundos" e armazene-o.
+2. Efetue a divisão de "Segundos" por 3600 e armazene o resultado na variavel "Anos".
+3. Efetue a divisão de "Segundos" por 60 e armazene o resultado na variavel "Minutos".
+4.Imprima "Horas", "Minutos", "Segundos". FIM
+
+

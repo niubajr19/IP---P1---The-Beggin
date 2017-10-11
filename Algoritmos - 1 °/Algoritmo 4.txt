@@ -1,0 +1,5 @@
+1. Receba um número e atribua-o como N. 
+2. Defina "r" como 0.   
+3. Some o Valor de "r" com o valor de "N" e todos os seus antecessores, sendo eles maiores que 0, armazenando o resultado em "r".
+4. Imprima "r" apos a soma.(FIM)
+

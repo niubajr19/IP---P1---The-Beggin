@@ -1,0 +1,10 @@
+1. Receba um número de 5 em diante que defina a idade do nadador e armazene-o.
+2. Se a idade dada for igual ou menor que 7 e maior ou igual a 5,pare e imprima como resultado" Infantil A".
+2.1. Se não, passe para o passo 3.
+3. Se a idade dada for igual ou menor que 10 e maior ou igual a 8, pare e imprima como resultado "Infantil B".
+3.1. Se não, passe para o passo 4.
+4. Se a idade dada for igual ou menor que 13 e maior ou igual a 11, pare e imprima como resultado "Juvenil A".
+4.1 Se não, passe para o passo 5.
+5. Se a idade dada for igual ou menor que 17 e maior ou igual a 14, pare e imprima como resultado "Juvenil B".
+5.1 Se não, passe para o passo 6.
+6. Se a idade dada for igual ou maior que 18, pare e imprima como resultado "Adulto". (Fim)

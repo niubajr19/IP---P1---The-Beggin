@@ -1,0 +1,6 @@
+a = int(input("Insira a quantidade de dias: "))
+b = int(input("Insira a quantidade de horas: "))
+c = int(input("Insira a quantidade de minutos: "))
+d = int(input("Insira a quantidade de segundos: "))
+segundost = (a*86400) + (b*3600) + (c*60) + (d)
+print("O valor inserido, convertido em segundos, é: ",segundost)

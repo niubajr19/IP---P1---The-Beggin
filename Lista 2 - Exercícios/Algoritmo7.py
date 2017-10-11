@@ -1,0 +1,7 @@
+anos = int(input("Insira sua idade definida em anos: "))
+meses = int(input("Insira sua idade definida em meses: "))
+dias = int(input("Insira sua idade definida em dias: "))
+dias1 = (anos * 365)
+dias2 = (meses * 30)
+diast = (dias + dias1 + dias2)
+print(diast)

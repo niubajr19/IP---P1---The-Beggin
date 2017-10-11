@@ -1,0 +1,6 @@
+a = float(input("Insira a quantidade de KM percorridos pelo veículo:"))
+b = float(input("Insira a quantidade de dias do aluguel:"))
+kmr = (0.15*a)
+dia = (b*60)
+precot = (kmr+dia)
+print("Você pagará:R$",'%0.2f'%precot)

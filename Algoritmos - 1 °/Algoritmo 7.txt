@@ -1,0 +1,7 @@
+1. Receba a idade de determinada pessoa, definida em "Anos".
+1.2. Recebe a idade de determinada pessoa, definida em "Meses".
+1.3. Receba a idade de determinada pessoa, definida em "Dias".
+2. Efetue a multliplicação de "Anos" por 365.
+3. Efetue a multiplicação de "Meses" por 30.
+4. Efetue a soma dos resultados dos passos 2 e 3 e some com "Dias".
+5. Imprima o resultado do Passo quatro.(Fim).

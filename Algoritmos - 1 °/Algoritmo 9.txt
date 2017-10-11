@@ -1,0 +1,6 @@
+1. Rebeba um número menor ou igual a 10 para "nota1" e armazene-o.
+2. Receba um número menor ou igual a 10 para "nota2" e armazene-o.
+3. Receba um número menor ou igual a 10 para "nota3" e armazene-o.
+4: Efetua a multiplicação da nota1 com peso 1(2), nota2 com peso 2(3) e nota3 com peso 3(5) e some os resultados.
+4.1. Efetua a soma dos 3 pesos (2,3 e 5) e divida-o com o resultado do passo 4, armazenando o resultado em "R".
+5. Imprima "R".(Fim)

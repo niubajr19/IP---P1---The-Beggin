@@ -1,0 +1,7 @@
+1. Receba um número para "a" e armazene.(10)	
+2. Receba um número para "b" e armazene.(5)
+3. Atribua o valor de "a" para "r"(resto).
+4. Defina 0 como valor do quociente(q).
+5. Se o valor de "b" for maior que "r", pare, definindo assim o resultado de "q" e "r".
+6. Se não, subtraia o valor de "b" a "r", somando 1 ao valor do quociente(q).
+7. Execute o Passo 5.

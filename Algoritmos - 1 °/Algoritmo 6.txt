@@ -1,0 +1,6 @@
+1. Receba um número inteiro qualquer, defina-o como "A" e armazene-o.
+2. Se "A" for maior que zero, imprima "Positivo".
+2.1. Se não, imprima "Negativo".
+3. Divida "A" por 2.
+4. Se a divisão obtiver resto, então imprima "Impar" juntamente com o passo 2/2.1
+4.1 Se a divisão não tiver resto, então imprima "Par" juntamente com o passo 2/2.1. (Fim)

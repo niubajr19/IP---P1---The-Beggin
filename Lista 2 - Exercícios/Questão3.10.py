@@ -1,0 +1,6 @@
+a = float(input("Insira o valor do seu salário: "))
+b = float(input("Insira a porcentagem do aumento: "))
+aumento = (a*b/100)
+st = a+(aumento)
+print("Seu salário, juntamente com a porcentagem de aumento, é de: R$",st,"Reais")
+print("O acréscimo ao seu salário é de:R$",aumento,"Reais")

@@ -1,0 +1,4 @@
+1. Receba um numero qualquer defina-o como "a" e armazene-o.
+2. Inicialize "b" como 1 e multiplique por ele mesmo.
+3. Se o resultado da multiplicação for igual a "a", pare e imprima "b".
+4. Se não, adicione 1 a "b" e retorne ao passo 2.

@@ -1,0 +1,5 @@
+1. Receba o custo de Fábrica de um Carro defina-o como "a", e armazene-o.
+2. Efetue a multiplicação de "a" por 28, divida por 100 e defina o resultado como "b".
+3. Efetue a multiplicação de "a" por 45, divida por 100 e defina o resultado como "r".
+4. Efetue a soma de "a","b" e "r" e armazene o resultado na variavel "Preço Total".
+5. Imprima "Preço Total".(FIM)

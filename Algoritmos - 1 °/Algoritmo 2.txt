@@ -1,0 +1,5 @@
+1. Receba um valor que defina "a".
+2. Receba um valor que defina "b".
+3. Adicione o valor de "a" em "r" e subtraia 1 ao valor de "b".
+4. Quando "b" for igual a 0, pare o processo e imprima o valor de "r".
+5. Se não, repita o passo 3.

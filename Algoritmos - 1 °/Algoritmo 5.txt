@@ -1,0 +1,4 @@
+1. Receba três números inteiros e armazene-os nas variaveis "a","b" e "c".
+2. Se "a" for maior que "b" e maior que "c", imprima "a" e pare. Se não, passe para o passo 3.
+3. Se "b" for maior que "a" e "c", imprima "b" e pare. Se não, passe para o passo 4.
+4. Se "c" for maior que "a" e "b", imprima "c" e pare.

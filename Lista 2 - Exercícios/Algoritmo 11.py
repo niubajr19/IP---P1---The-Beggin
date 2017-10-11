@@ -1,0 +1,5 @@
+a = float(input("Insira o custo de fábrica do carro: "))
+b = (a*28/100)
+r = (a*45/100)
+precototal = (a+b+r)
+print("O preço total é:", precototal, "reais" )

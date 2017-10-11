@@ -1,0 +1,6 @@
+1. Receba um número para "nota1" e armazene-o.
+1.1. Receba um número para "nota2" e armazene-o.
+1.2. Receba um número para "nota3" e armazene-o.
+2. Efetue a soma das notas anteriores e divida-as por 3, em seguida imprima o resultado.
+3. Se res for igual ou maior que 6, imprima "Aprovado" juntamente com o resultado do passo anterior.
+4. se res for menor que 6, imprima "Reprovado" juntamente com o resultado do passo 2.(FIM)

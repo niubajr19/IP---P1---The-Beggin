@@ -1,0 +1,4 @@
+1. Receba uma idade qualquer, definida em "Dias".
+2. Efetue a divisão de "dias" por 30 e armazene o resultado na variavel "Meses".
+3. Efetue a divisão de "dias" por 365 e armazene o resultado na variavel "Anos".
+4. Imprima "Anos", "Meses" e "Dias".

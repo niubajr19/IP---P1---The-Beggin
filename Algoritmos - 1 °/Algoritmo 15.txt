@@ -1,0 +1,7 @@
+1. Receba um numero que defina salário e atribua-o como "a".
+2. Divida "a" por 100 e atribua o resultado à variavel "Notas de 100", e o resto em "a".
+3. Divida "a" por 50 e atribua o resultado à variavel "Notas de 50", e o resto em "a".
+4. Divida "a" por 10 e atribua o resultado à variavel "Notas de 10", e o resto em "a".
+5. Divida "a" por 5 e atribua o resultado à variavel "Notas de 5", e o resto em "a".
+6. Se "a" for igual a 0, pare, e imprima os resultados dos passos 2,3,4,5. Se o passo 7 for efetuado, imprima juntamente com os passos citados anteriormente.
+7. Divida "a" por 1 e  atribua o resultado à variavel "Notas de 1", e o resto em "a", voltando assim, ao passo 6.(Fim)

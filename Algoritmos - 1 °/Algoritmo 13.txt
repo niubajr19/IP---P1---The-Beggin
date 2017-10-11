@@ -1,0 +1,8 @@
+1. Receba um número qualquer para "a" e armazene-o.
+2. Receba um número qualquer para "b" e armazene-o.
+3. Se "a" for maior que "b", divida "a" por "b", se não, passe ao passo 4.
+3.1. Se a divisão obter resto, pare e imprima "Não são múltiplos".
+3.2. Se não obtiver resto, pare e imprima "São múltiplos".
+4. Se "b" for maior que "a", divida "b" por "a".
+4.1. Se a divisão não obtiver resto, pare e imprima "São múltiplos".
+4.2. Se obtiver resto, pare e imprima "São múltiplos".(Fim)

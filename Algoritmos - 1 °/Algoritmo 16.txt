@@ -1,0 +1,6 @@
+1. Receba a hora inicial e atribua a "hi", minuto incicial a "mi", hora final a "hf" e minuto final a "mf" 
+2. Se hi for maior que hf, vá para o passo 2.1, senão, vá para o passo 3.
+2.1. Subtraia hi de 24(horas de um dia) e some com hf, armazenando o resultado em hd.
+3. Se hf for maior que hi, subtraia  hi de hf, armazenando o resultado em hd.
+4. Some mi com mf,mas, toda vez que chegar em 60, adicione 1 à hd e zere oos minutos(mi/mf).
+
